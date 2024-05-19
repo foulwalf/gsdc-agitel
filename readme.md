@@ -2,14 +2,6 @@
 
 This project is a Git tutorial aimed at helping beginners learn the basics of Git version control system.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Getting Started](#getting-started)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 The Git Tutorial project provides step-by-step instructions and examples to help you understand the fundamental concepts of Git. Whether you're new to version control or looking to enhance your Git skills, this tutorial will guide you through the process.
